@@ -6,8 +6,9 @@
 __pycache__/
 *.py[cod]
 *$py.class
+.vscode/*
 
-.profiles-rest-api.code-workspace
+profiles-rest-api.code-workspace
 
 # C extensions
 *.so
